@@ -1,4 +1,4 @@
-- [X ] Get indepdent study forms signed by Dr. Harney. 
+- [X] Get indepdent study forms signed by Dr. Harney. 
 - [X] Get indepdent study forms signed by Dr. Egge.
 - [X] Get indepdent study forms signed by Dean Gulley.
 - [X] Get independent study forms signed by the registrar's office.
