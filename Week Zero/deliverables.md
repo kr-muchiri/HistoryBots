@@ -1,7 +1,7 @@
-- [ ] Get indepdent study forms signed by Dr. Harney. 
-- [ ] Get indepdent study forms signed by Dr. Egge.
-- [ ] Get indepdent study forms signed by Dean Gulley.
-- [ ] Get independent study forms signed by the registrar's office.
-- [ ] Develop a course website for this class.
-- [ ] Create a Github Page for this class.
-- [ ] Create a Trello board for this class. 
+- [X] Get indepdent study forms signed by Dr. Harney. 
+- [X] Get indepdent study forms signed by Dr. Egge.
+- [X] Get indepdent study forms signed by Dean Gulley.
+- [X] Get independent study forms signed by the registrar's office.
+- [X] Develop a course website for this class.
+- [X] Create a Github Page for this class.
+- [X] Create a Trello board for this class. 
