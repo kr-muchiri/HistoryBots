@@ -9,9 +9,9 @@ Familiarity with Python programming language
 
 ## Learning Outcomes:
 By the end of the course, student will be able to:
-Set up and configure the Raspberry Pi environment
-Understand the basics of NLP and its application in chatbots
-Use IBM Watson services for TTS conversion and NLP
-Integrate visual, mechanical, and aural responses into chatbots
-Build a historical chatbot that can respond to user inputs
-Utilize advanced features of IBM Watson services
+1. Set up and configure the Raspberry Pi environment
+2. Understand the basics of NLP and its application in chatbots
+3. Use IBM Watson services for TTS conversion and NLP
+4. Integrate visual, mechanical, and aural responses into chatbots
+5. Build a historical chatbot that can respond to user inputs
+6. Utilize advanced features of IBM Watson services
