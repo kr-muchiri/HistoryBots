@@ -1,0 +1,2 @@
+- [x] Set up Raspberry Pi
+- [ ] Develop code that shows understanding of Raspberry Pi in Python 
