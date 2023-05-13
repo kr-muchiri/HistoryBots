@@ -18,4 +18,4 @@
 - [X] Begin coding the Raspberry Pi command demonstration program.
 - [X] Implement code examples for various advanced Raspberry Pi commands.
 - [X] Test the code to ensure it works as expected on the Raspberry Pi.
-- 
+ 
