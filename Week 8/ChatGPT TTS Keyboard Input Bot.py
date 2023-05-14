@@ -4,7 +4,7 @@ import pygame
 from google.cloud import texttospeech
 
 # Initialize OpenAI API
-openai.api_key = "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"
+openai.api_key = "insert key here"
 
 # Function to convert text to speech using Google Text-to-Speech API
 def text_to_speech(text):
