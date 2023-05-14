@@ -6,7 +6,7 @@ from translatepy import Translator
 import speech_recognition as sr
 
 # Initialize OpenAI API
-openai.api_key = "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"
+openai.api_key = "insert key here"
 
 # Function to get voice input
 def get_voice_input():
