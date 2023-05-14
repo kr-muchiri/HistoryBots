@@ -1,1 +1,1 @@
-This is a dummy file. Do not worry. 
+This is a dummy file
