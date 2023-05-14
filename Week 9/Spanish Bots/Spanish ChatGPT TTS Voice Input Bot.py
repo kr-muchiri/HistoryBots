@@ -1,3 +1,4 @@
+# Spanish ChatGPT TTS Voice input bot
 import openai
 import os
 import pygame
@@ -85,5 +86,5 @@ def main():
     while pygame.mixer.music.get_busy():
         pygame.time.Clock().tick(10)
 
-if __name__ == "__main__":
+if __name__ == "__main__": 
     main()
